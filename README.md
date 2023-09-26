@@ -47,7 +47,7 @@ Enjoy a personalized gaming experience tailored to your preferences.
 MxArcadeSwitch provides extensive customization options to ensure your arcade switches meet the specific requirements of arcade cabinets and fight sticks. The peramaters ar set in the global variable section.
 
 ## Contributing
-Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request. Make sure to follow our Code of Conduct.
+Contributions are welcome! If you have ideas for improvements or new features, please open an issue, submit a pull request or just go rouge.
 
 ## License
 GNU General Public License
