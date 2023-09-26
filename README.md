@@ -26,6 +26,8 @@ MxArcadeSwitch is a 3D printable, MX compatible, Arcade Switch generator written
 
 Install OpenSCAD if you haven't already. 
 
+Add the [Threads](https://github.com/rcolyer/threads-scad) and [BOSL](https://github.com/revarbat/BOSL) libraries.
+
 Open the OpenSCAD script (MxArcadeSwitch.scad) in OpenSCAD.
 
 ## Usage
@@ -33,7 +35,7 @@ Customize your arcade switch by modifying the parameters in the OpenSCAD script 
 
 Preview your switch design in OpenSCAD to ensure it aligns with your gaming needs.
 
-Export the STL file for 3D printing from OpenSCAD.
+Export the STL file for 3D printing from OpenSCAD. 
 
 3D print your custom arcade switches.
 
