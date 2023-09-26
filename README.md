@@ -1,8 +1,6 @@
 # MxArcadeSwitch
 A  3D printable, MX compatible, Arcade Switch.
 
-# MxArcadeSwitch
-
 ![MxArcadeSwitch Logo](thumbnailMxArcadeSwitch.jpg)
 
 MxArcadeSwitch is a 3D printable, MX compatible, Arcade Switch generator written in OpenSCAD. This tool is designed to help you create custom arcade-style switches, perfect for use in arcade cabinets and fight sticks.  Add a personal touch to your gaming experience and build custom controls that suit your style.
